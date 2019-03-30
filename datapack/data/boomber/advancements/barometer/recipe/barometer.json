@@ -1,0 +1,14 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "boomber:barometer/barometer"
+			}
+		}
+	},
+	"parent": "boomber:barometer/recipe/root",
+	"rewards": {
+		"function": "boomber:barometer/recipe/barometer"
+	}
+}

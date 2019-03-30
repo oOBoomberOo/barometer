@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"X X",
+		" Y "
+	],
+	"key": {
+		"X": {
+			"item": "minecraft:potion"
+		},
+		"Y": {
+			"item": "minecraft:iron_ingot"
+		}
+	},
+	"result": {
+		"item": "minecraft:knowledge_book"
+	}
+}

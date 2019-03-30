@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": "Barometer v1.0",
+		"description": "F3 screen: Axel Edition",
+		"icon": {
+			"item": "minecraft:clock",
+			"nbt": "{CustomModelData: 8080000}"
+		},
+		"announce_to_chat": false,
+		"show_toast": false
+	},
+	"parent": "boomber:boomber",
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:tick"
+		}
+	
+	}
+}

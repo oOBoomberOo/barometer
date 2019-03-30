@@ -1,0 +1,193 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "boomber:barometer/gui/0.png",
+			"ascent": 365,
+			"height": 427,
+			"chars": [
+				"\uEA00"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "boomber:barometer/gui/1.png",
+			"ascent": 365,
+			"height": 427,
+			"chars": [
+				"\uEA01"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "boomber:barometer/gui/2.png",
+			"ascent": 365,
+			"height": 427,
+			"chars": [
+				"\uEA02"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "boomber:barometer/gui/3.png",
+			"ascent": 365,
+			"height": 427,
+			"chars": [
+				"\uEA03"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "boomber:barometer/gui/4.png",
+			"ascent": 365,
+			"height": 427,
+			"chars": [
+				"\uEA04"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "boomber:barometer/gui/5.png",
+			"ascent": 365,
+			"height": 427,
+			"chars": [
+				"\uEA05"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "boomber:barometer/gui/6.png",
+			"ascent": 365,
+			"height": 427,
+			"chars": [
+				"\uEA06"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "boomber:barometer/gui/7.png",
+			"ascent": 365,
+			"height": 427,
+			"chars": [
+				"\uEA07"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "boomber:barometer/gui/8.png",
+			"ascent": 365,
+			"height": 427,
+			"chars": [
+				"\uEA08"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "boomber:barometer/gui/9.png",
+			"ascent": 365,
+			"height": 427,
+			"chars": [
+				"\uEA09"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "boomber:barometer/gui/10.png",
+			"ascent": 365,
+			"height": 427,
+			"chars": [
+				"\uEA0A"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "boomber:barometer/gui/11.png",
+			"ascent": 365,
+			"height": 427,
+			"chars": [
+				"\uEA0B"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "boomber:barometer/gui/12.png",
+			"ascent": 365,
+			"height": 427,
+			"chars": [
+				"\uEA0C"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "boomber:barometer/gui/13.png",
+			"ascent": 365,
+			"height": 427,
+			"chars": [
+				"\uEA0D"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "boomber:barometer/gui/14.png",
+			"ascent": 365,
+			"height": 427,
+			"chars": [
+				"\uEA0E"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "boomber:barometer/gui/15.png",
+			"ascent": 365,
+			"height": 427,
+			"chars": [
+				"\uEA0F"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "boomber:barometer/gui/16.png",
+			"ascent": 365,
+			"height": 427,
+			"chars": [
+				"\uEA10"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "boomber:barometer/gui/17.png",
+			"ascent": 365,
+			"height": 427,
+			"chars": [
+				"\uEA11"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "boomber:barometer/gui/18.png",
+			"ascent": 365,
+			"height": 427,
+			"chars": [
+				"\uEA12"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "boomber:barometer/gui/19.png",
+			"ascent": 365,
+			"height": 427,
+			"chars": [
+				"\uEA13"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "boomber:barometer/gui/20.png",
+			"ascent": 365,
+			"height": 427,
+			"chars": [
+				"\uEA14"
+			]
+		}
+	]
+}
