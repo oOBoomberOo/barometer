@@ -1,5 +1,5 @@
 {
-	"parent": "item/handheld",
+	"parent": "item/generate",
 	"textures": {
 		"layer0": "boomber:barometer/item/barometer"
 	}
